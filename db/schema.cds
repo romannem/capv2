@@ -1,6 +1,7 @@
 using { managed, cuid, Country, Currency } from '@sap/cds/common';
 namespace my.captraining;
 
+//test githubu
 
  entity SalesOrder: managed {
     key ID : UUID;
